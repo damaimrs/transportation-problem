@@ -190,7 +190,7 @@
                 }  
             }
 
-            echo "Total Cost :&nbsp;Rp" . number_format($total);
+            echo "Total Cost :&nbsp;" . number_format($total);
             echo"<br /><a href='index.php'>Ulangi</a>";
             echo"</div>";
             echo"</table>";
